@@ -3,10 +3,10 @@ A list of projects I am actively working on, or working towards:
 
 
 # (1) Lock-Free Data Structures Library
- * **Fomitchev & Ruppert List** *
- * **Asbell & Ruppert Adaptive List** *
- * **Naderibeni & Ruppert Queue** *
- * **FEAST lock-Free BST** *
+ * **Fomitchev & Ruppert List** 
+ * **Asbell & Ruppert Adaptive List** 
+ * **Naderibeni & Ruppert Queue** 
+ * **FEAST lock-Free BST** 
 
 # (2) Low‑Latency FIX Engine — Project Summary (C++)
 
